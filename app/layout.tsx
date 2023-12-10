@@ -10,7 +10,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "PageForm (@CodeWithKliton)",
+  title: "PageForm by samuel ochaba",
   description: "Check my youtube channel for more content",
 };
 
